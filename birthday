@@ -61,10 +61,9 @@ $height: 500;
 
 body{
  background: #e8e8e8;
- cursor: crosshair;
  perspective: 1000px;
  transform-style: preserve-3d;
- font-family: "Pacifico",cursive;
+ font-family: "OpenSans",cursive;
 }
 
 h1 {
