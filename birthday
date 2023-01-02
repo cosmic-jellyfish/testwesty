@@ -63,7 +63,7 @@ body{
  background: #e8e8e8;
  perspective: 1000px;
  transform-style: preserve-3d;
- font-family: "OpenSans",cursive;
+ font-family: "Pacifico",cursive;
 }
 
 h1 {
